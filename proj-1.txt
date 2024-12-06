@@ -1,0 +1,4 @@
+meme-coin-website/
+├── index.html
+├── style.css
+└── script.js
